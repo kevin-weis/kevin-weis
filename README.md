@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kevin-weis
-- 👀 I’m interested in data science, machine learning, deep learning, ethical AI, and anything music related 
-- 🌱 I’m currently learning various deep learning techniques for music generation, such as VAEs and GANs
+- 👀 I’m interested in data science, Responsible AI, and the relationship of digital technologies to society 
+- 🌱 Outside of tech, I'm a pop music aficianado 
 - 📫 How to reach me: email! kevweis@gmail.com 
 
 <!---
