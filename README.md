@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kevin-weis
 - 👀 I’m interested in data science, Responsible AI, and the relationship of digital technologies to society 
-- 🌱 Outside of tech, I'm a pop music aficianado 
+- 🌱 Outside of tech, I'm a pop / electronic / experimental music aficionado, and am always looking for something new and interesting to listen to 
 - 📫 How to reach me: email! kevweis@gmail.com 
 
 <!---
